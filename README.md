@@ -1,8 +1,8 @@
-Title: guessinggame.sh
+# Made by Julio Rosaldo
 
-Date of run:
-Mon Nov  1 14:59:01 PDT 2021
+1. Title: guessinggame.sh
 
-
-The number of lines of guessinggame.sh is:
+2. Date of run:
+Mon Nov  1 15:11:47 PDT 2021
+3. The number of lines of guessinggame.sh is:
 23
